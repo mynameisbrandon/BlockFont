@@ -1,0 +1,6 @@
+Speeds up when text crosses edge of browser
+
+Increasing size does not slow it down
+
+Runs smoothly when amount of text is below a certain value
+
